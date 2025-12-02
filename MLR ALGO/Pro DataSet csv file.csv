@@ -1,0 +1,6 @@
+,DISEASE_CARDIOVASCULAR,CHEST_PAIN,NON_CARDIAC,DIAGNOSTIC TESTS,1st LINE TREATMENT,HEART_DISEASE(SYMPTOMS),age,sex,ECG,target,chol
+0,heart_association_class:,Cardiac,sharp,Cardiac catheterization,Supplement O2,H.R,63,1,Most common diagnosis for (VSD),1,233
+1,class1 no_limit,pressure,stubbing,ECG/EKG,Control chest pain by(pain killer),Breathing,37,1,Most common diagnosis for (VSD),1,250
+2,class2 slight limit,tightness,focal,Echocardiogram,Provide fluid support,sweat,41,0,Most common diagnosis for (VSD),0,204
+3,class3 Marked limit No symptoms  at rest,physical stress,well localized,Chest X-rays,Medications 4th to remove excess fluid,cyanosis,56,1,Most common diagnosis for (VSD),1,236
+4,class4 Marked limit No symptoms  at rest,prolonged symtoms,at rest,Blood test,Administration,tiredness,57,0,Most common diagnosis for (VSD),1,354
